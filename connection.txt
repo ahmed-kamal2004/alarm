@@ -1,4 +1,0 @@
-True
-fastApi
-postgres
-9341
